@@ -2,3 +2,5 @@
 A test for git deploying.
 
 A bug testing.
+
+A bug fixing test.
